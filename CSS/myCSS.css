@@ -1,0 +1,25 @@
+
+/*HTML元素*/
+body{
+   background: rgb(236, 223, 194);
+    font-size: 30px;
+}a{
+    color: brown;
+    text-decoration: brown;
+ }
+ div> div> a{
+     caret-color: #b28651;
+ }
+/*CLASS*/
+
+.c-cla{
+    background-color: rgba(213, 169, 150, 0.3)
+}
+.e-cla {
+    background-color: rgba(238, 165, 153, 0.5)
+}
+
+/*ID*/
+#hate{
+    color: rgba(176, 13, 132, 0.73);
+}
